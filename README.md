@@ -2,7 +2,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/real_ASandhu?style=social)
 
-I am experienced Azure DevOps engineer have subject matter experise working with people, processess, and Technologies to continuously deliver business value.
+I am experienced Cloud/DevOps engineer have subject matter experise working with people, processess, and Technologies to continuously deliver business value.
 
 Also, I've proven Management and IT skills end-to-end solutions for Azure Cloud, Office 365, Microsoft stack, Citrix Technologies and Virtualization Technologies, as well-developed competencies in Project Management, Security and Networking.
 
