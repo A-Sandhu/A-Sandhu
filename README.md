@@ -1,6 +1,6 @@
 ### ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Amrit Sandhu!
 
-![Twitter Follow](https://img.shields.io/twitter/follow/real_ASandhu?style=social) ![GitHub Activity](https://img.shields.io/github/commit-activity/y/a-sandhu/a-sandhu)
+![Twitter Follow](https://img.shields.io/twitter/follow/real_ASandhu?style=social)
 
 I am experienced Azure DevOps engineer have subject matter experise working with people, processess, and Technologies to continuously deliver business value.
 
