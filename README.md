@@ -1,6 +1,6 @@
 ### ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Amrit Sandhu!
 
-![Twitter Follow](https://img.shields.io/twitter/follow/<real_ASandhu>?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/real_ASandhu?style=social)
 
 
 <!--
