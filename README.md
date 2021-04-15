@@ -12,7 +12,7 @@ I am an enthusiastic, strive to learn new Technologies and willing worker with s
 
 🧰 Toolbox
 
-<img src="https://github.com/A-Sandhu/A-Sandhu/blob/main/svg/logos/Azure/azure-1.svg" alt="Azure Logo" width="50" height="50"/>   <img src="https://github.com/A-Sandhu/A-Sandhu/blob/main/svg/logos/Docker/docker-1.svg" alt="Docker Logo" width="70" height="70"/>   <img src="https://github.com/A-Sandhu/A-Sandhu/blob/main/svg/logos/HasiCorp/hashicorp.svg" alt="HashiCorp Logo" width="50" height="50"/> <image src="https://github.com/A-Sandhu/A-Sandhu/blob/main/svg/logos/AWS/aws-2.svg" alt=" AWS Logo" width="50" height="50"/> <image src="https://github.com/A-Sandhu/A-Sandhu/blob/main/svg/logos/Kubernetes/kubernets.svg" alt=" Kubernetes Logo" width="50" height="50"/> 
+<img src="https://github.com/A-Sandhu/A-Sandhu/blob/main/svg/logos/Azure/azure-1.svg" alt="Azure Logo" width="50" height="50"/> <img src="https://github.com/A-Sandhu/A-Sandhu/blob/main/svg/logos/Docker/docker-1.svg" alt="Docker Logo" width="120" height="120"/> <img src="https://github.com/A-Sandhu/A-Sandhu/blob/main/svg/logos/HasiCorp/hashicorp.svg" alt="HashiCorp Logo" width="50" height="50"/> <image src="https://github.com/A-Sandhu/A-Sandhu/blob/main/svg/logos/AWS/aws-2.svg" alt=" AWS Logo" width="50" height="50"/> <image src="https://github.com/A-Sandhu/A-Sandhu/blob/main/svg/logos/Kubernetes/kubernets.svg" alt=" Kubernetes Logo" width="50" height="50"/> 
 
 ---
 
