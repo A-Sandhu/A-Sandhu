@@ -12,9 +12,7 @@ I am an enthusiastic, strive to learn new Technologies and willing worker with s
 
 🧰 Toolbox
 
-<img src="https://worldvectorlogo.com/download/azure-1.svg" alt="Azure Logo" width="50" height="50"/>
-
-<img src="https://worldvectorlogo.com/download/azure-1.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://worldvectorlogo.com/download/azure-1.svg" alt="Azure Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/download/azure-1.svg" alt="CSS Logo" width="50" height="50"/>
 
 ---
 
