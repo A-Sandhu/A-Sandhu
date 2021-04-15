@@ -2,6 +2,18 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/real_ASandhu?style=social)
 
+<I am experienced Azure DevOps engineer have subject matter experise working with people, processess, and Technologies to continuously deliver business value.
+Also, I've proven Management and IT skills end-to-end solutions for Azure Cloud, Office 365, Microsoft stack, Citrix Technologies and Virtualization Technologies, as well-developed competencies in Project Management, Security and Networking.
+I am an enthusiastic, strive to learn new Technologies and willing worker with success working in both team-based and independent capacities.>
+
+---
+
+🧰 Toolbox
+
+<img src="https://worldvectorlogo.com/download/azure-1.svg" alt="Azure Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/download/azure-1.svg" alt="CSS Logo" width="50" height="50"/>
+
+---
+
 
 <!--
 **A-Sandhu/A-Sandhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
